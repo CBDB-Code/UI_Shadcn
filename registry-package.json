@@ -1,0 +1,29 @@
+{
+  "name": "getvocal-registry",
+  "version": "1.0.0",
+  "description": "GetVocal shadcn/ui component registry — Health Matrix, Sankey Chart, Analytics Dashboard",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/christophe-deschryver/UI_Shadcn"
+  },
+  "keywords": [
+    "shadcn",
+    "registry",
+    "components",
+    "health-matrix",
+    "sankey",
+    "analytics",
+    "react",
+    "tailwindcss"
+  ],
+  "license": "MIT",
+  "peerDependencies": {
+    "react": ">=18",
+    "react-dom": ">=18",
+    "recharts": ">=2",
+    "lucide-react": ">=0.300",
+    "@radix-ui/react-slot": ">=1",
+    "class-variance-authority": ">=0.7",
+    "tailwindcss": ">=3"
+  }
+}
